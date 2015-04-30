@@ -1,0 +1,45 @@
+{
+  "name": "node-markup-color-extractor",
+  "version": "1.0.0",
+  "description": "Extract colors from markup (XML and HTML)",
+  "license": "MIT",
+  "homepage": "https://github.com/mjhasbach/node-markup-color-extractor",
+  "dependencies": {
+    "cheerio": "~0.19.0",
+    "lodash": "~3.7.0",
+    "request": "~2.55.0",
+    "tinycolor2": "~1.1.2"
+  },
+  "devDependencies": {
+    "chai": "~2.3.0",
+    "mocha": "~2.2.4"
+  },
+  "keywords": [
+    "markup",
+    "html",
+    "xml",
+    "parse",
+    "extract",
+    "color",
+    "string",
+    "buffer",
+    "url",
+    "file"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mjhasbach/node-markup-color-extractor.git"
+  },
+  "author": {
+    "name": "Matthew Hasbach",
+    "email": "hasbach.git@gmail.com",
+    "url": "https://github.com/mjhasbach"
+  },
+  "main": "lib/extractColors.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "mocha test"
+  }
+}
