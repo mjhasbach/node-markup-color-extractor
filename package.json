@@ -1,6 +1,6 @@
 {
   "name": "markup-color-extractor",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Extract colors from markup (XML and HTML)",
   "license": "MIT",
   "homepage": "https://github.com/mjhasbach/node-markup-color-extractor",
