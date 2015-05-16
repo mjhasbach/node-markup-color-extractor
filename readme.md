@@ -115,7 +115,7 @@ You may also supply any of the [htmlparser2 parser options](https://github.com/f
 ## Installation
 #### Npm
 ```
-npm install node-markup-color-extractor
+npm install markup-color-extractor
 ```
 
 # Tests
